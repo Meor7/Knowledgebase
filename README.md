@@ -1,2 +1,0 @@
-# Knowledgebase
-YHB Knowledge Base
